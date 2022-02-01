@@ -1,6 +1,6 @@
 # ToDo App
 
-## An CRUD EXample with mongoDb and express
+## CRUD EXample with mongoDb and express
 
 find api doc [here]
 
